@@ -1,5 +1,12 @@
-opencv-python==3.2.0
-django>=1.10.8
-psycopg2==2.7.1
-rest_framework==3.6.3
-numpy==1.12.1
+asgiref
+autopep8
+Django==2.1.*
+pycodestyle
+pytz
+sqlparse
+Unipath
+dj-database-url
+python-decouple
+gunicorn
+whitenoise
+django-heroku
